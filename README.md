@@ -32,5 +32,5 @@ TypeError: import_node_module.findPackageJSON is not a function
 ## Environment
 
 - Node.js: v22+
-- turbo: 2.8.10
+- turbo: 2.8.12-canary.2
 - OS: macOS (Apple Silicon)
