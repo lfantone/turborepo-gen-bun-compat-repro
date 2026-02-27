@@ -1,0 +1,8 @@
+{
+  "name": "turborepo-gen-bun-compat-repro",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "devDependencies": {
+    "turbo": "^2.8.10"
+  }
+}
